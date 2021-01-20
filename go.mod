@@ -1,4 +1,4 @@
-module droneauth
+module github.com/Trial97/droneAuth
 
 go 1.15
 
